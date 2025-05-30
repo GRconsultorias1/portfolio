@@ -19,4 +19,4 @@ Este estudo aplicou técnicas de análise de sobrevivência aos dados do German 
 **Aplicações práticas**
 - Estudos clínicos, saúde pública e medicina preditiva
 
-📎 [Ver artigo completo (PDF)](./artigo.pdf)
+📎 [Ver artigo completo (PDF)](./ArtigoSobrevivência.pdf)
