@@ -16,7 +16,6 @@ Este estudo aplicou técnicas de análise de sobrevivência aos dados do German 
 - Kaplan-Meier, Testes Log-Rank e Wilcoxon
 - Visualização estatística
 
-**Aplicações práticas**
-- Estudos clínicos, saúde pública e medicina preditiva
 
-📎 [Ver artigo completo (PDF)](./ArtigoSobrevivência.pdf)
+
+📎 [Ver artigo completo (PDF)](./TrabalhoSobrevivência.pdf)
