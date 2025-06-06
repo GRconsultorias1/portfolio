@@ -18,4 +18,4 @@ Este trabalho propôs um dashboard interativo para visualização e análise est
 - Biblioteconomia, gestão de acervos, planejamento de digitalização, políticas de ciência aberta
 
 🔗 [Dashboard interativo](https://lookerstudio.google.com/s/rvs79HiWP7M)  
-📎 [Ver artigo completo (PDF)](./artigo.pdf)
+📎 [Ver artigo completo (PDF)](./artigo_SnCAT.pdf)
