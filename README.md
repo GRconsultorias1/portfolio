@@ -12,7 +12,7 @@ Estudo com dados clínicos para identificar fatores que influenciam a sobrevida 
 ### 🎓 [Modelagem Multinível em Avaliação Educacional](./modelagem-multinivel-enade/resumo.md)
 Modelo estatístico hierárquico aplicado ao ENADE, com foco em valor agregado e efeitos institucionais.
 
-### 📚 [Visualização de Dados Bibliográficos - Estudo 1](./dados-bibliograficos-ccn1/resumo.md)
+### 📚 [Visualização de Dados Bibliográficos - Artigo SnCAT](./artigo-SnCAT-analise-dados-bibliograficos/resumo.md)
 Dashboard e análise preditiva com dados de publicações seriadas no Brasil (CCN).
 
 ### 📚 [Visualização de Dados Bibliográficos - Estudo 2](./dados-bibliograficos-ccn2/resumo.md)
