@@ -18,4 +18,4 @@ Este estudo aplicou técnicas de análise de sobrevivência aos dados do German 
 
 
 
-📎 [Ver artigo completo (PDF)](./TrabalhoSobrevivência.pdf)
+📎 [Ver artigo completo (PDF)](./ProjetoSobrevivência.pdf)
