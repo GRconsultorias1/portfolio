@@ -18,4 +18,4 @@ Este estudo demonstrou a convergência entre Ciência de Dados e Biblioteconomia
 - Repositórios científicos, modernização de sistemas de informação, uso de IA na recuperação de informação
 
 🔗 [Dashboard interativo](https://lookerstudio.google.com/reporting/8c58534d-22fe-4937-9cdd-d6741878a68f/page/p_qq31vshibd)  
-📎 [Ver artigo completo (PDF)](./artigo.pdf)
+📎 [Ver artigo completo (PDF)](./artigo_WIDaT.pdf)
